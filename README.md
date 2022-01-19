@@ -33,12 +33,9 @@
 
 -------------------------------------------------
 
-# 🚀 𝙳𝙴𝙿𝙻𝙾𝚈 𝚃𝙾 𝙷𝙴𝚁𝙾𝙺𝚄
+#🚀 𝗗𝗘𝗣𝗟𝗢𝗬 𝗧𝗢 𝗛𝗘𝗥𝗢𝗞𝗨
   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Agora-OS/AGORA-GANGSTERS)
 
-
-  
-  <a href="https://t.me/XTZ_HEROKUBOT"><img src="https://img.shields.io/badge/𝗗𝗘𝗣𝗟𝗢𝗬 %20𝗧𝗢%20𝗛𝗘𝗥𝗢𝗞𝗨-purple.svg?logo=Telegram"></a>
 # ❤︎ <a href="https://t.me/AGORASWAMY_PROFESSOR"><img src="https://img.shields.io/badge/𝗢𝗪𝗡𝗘𝗥-𝗞𝗔𝗩𝗬𝗔%20𝗦𝗛𝗔𝗔𝗡-orange.svg?logo=Telegram"></a>
 # ❤︎ <a href="https://t.me/The_name_is_unique_wepoN"><img src="https://img.shields.io/badge/𝗢𝗪𝗡𝗘𝗥-𝗔𝗠𝗠𝗨%20𝗔𝗥𝗨𝗡-orange.svg?logo=Telegram"></a>
 # 😎 <a href="https://t.me/GELEYA"><img src="https://img.shields.io/badge/𝗢𝗪𝗡𝗘𝗥-𝗦𝗔𝗖𝗛𝗜𝗡-orange.svg?logo=Telegram"></a>
