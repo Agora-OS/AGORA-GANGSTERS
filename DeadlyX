@@ -4,10 +4,10 @@
 _get_repolink () {
     local regex
     regex='(https?)://github.com/.+/.+'
-    if [[ $RIZ_REPO == "DEADLY-SPAM-BOT" ]]
+    if [[ $RIZ_REPO == "AGORA-GANGSTERS" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL0RFQURMWS1GSUdIVEVSUy9ERUFETFktU1BBTS1CT1QvYXJjaGl2ZS9tYWluLnppcA==" | base64 -d
-    elif [[ $RIZ_REPO == "DEADLY-SPAM-BOT" ]]
+    elif [[ $RIZ_REPO == "AGORA-GANGSTERS" ]]
     then
         echo "aHR0cHM6Ly9naXRodWIuY29tL0RFQURMWS1GSUdIVEVSUy9ERUFETFktU1BBTS1CT1QvYXJjaGl2ZS9tYWluLnppcA==" | base64 -d
     elif [[ $RIZ_REPO =~ $regex ]]
@@ -26,7 +26,7 @@ _get_repolink () {
 
 _set_bot () {
     local zippath
-    zippath="deadly-spam-bot.zip"
+    zippath="AGORA-GANGSTERS.zip"
     echo "  Downloading source code ..."
     wget -q $(_get_repolink) -O "$zippath"
     echo "  Unpacking Data ..."
@@ -37,11 +37,11 @@ _set_bot () {
     rm -rf "$zippath"
     sleep 5
     cd $RIZPATH
-    echo "  Starting.  DEADLY SPAM BOT "
-    echo "DEADLY SPAM BOT"
+    echo "  Starting.  AGORA GANGSTERS"
+    echo "AGORA GANGSTERS"
 
     python3 ./setup/updater.py ./requirements.txt requirements.txt
-    python3 -m OfficialSameer
+    python3 -m AgoraProfessor
 }
 
 _set_bot
