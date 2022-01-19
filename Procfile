@@ -1,1 +1,1 @@
-worker: bash DeadlyX
+worker: bash AGORA-GANGSTERS
