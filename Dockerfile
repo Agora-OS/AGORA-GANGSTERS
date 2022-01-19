@@ -1,13 +1,13 @@
 FROM sandy1709/catuserbot:alpine
 
 #clonning repo 
-RUN git clone https://github.com/DEADLY-FIGHTERS/DEADLY-SPAM-BOT.git /root/OfficialSameer
+RUN git clone https://github.com/Agora-OS/AGORA-GANGSTERS.git /root/AgoraProfessor
 #working directory 
-WORKDIR /root/OfficialSameer
+WORKDIR /root/AgoraProfessor
 
 # Install requirements
 RUN pip3 install -U -r requirements.txt
 
-ENV PATH="/home/OfficialSameer/bin:$PATH"
+ENV PATH="/home/AgoraProfessor/bin:$PATH"
 
-CMD ["python3","-m","OfficialSameer"]
+CMD ["python3","-m","AgoraProfessor"]
