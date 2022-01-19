@@ -1,1 +1,1 @@
-worker: bash AGORA-GANGSTERS
+worker: bash AgoraProfessor
